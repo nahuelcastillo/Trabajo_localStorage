@@ -1,0 +1,17 @@
+* {
+    text-align: center
+   
+}
+
+body {
+background-color: #3498DB;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-style: dashed;
+margin: 200px;
+}
+
+h1{
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin: 100px;
+}
